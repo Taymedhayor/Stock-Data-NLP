@@ -3,17 +3,26 @@ Provided with the dataset we performed market sentiment analysis with positive a
 
 # Dependencies
 -NUmpy
+
 -pandas
+
 -seaborn
+
 -Sklearn
+
 -NLtk
 
 # Table of contents
 -Introduction
+
 -Business Understanding
+
 -Import the packages
+
 -Data Preprocessing
+
 -NLP Processing
+
 -Modelling and Predicting 
 
 ### The note display a simple format to start with NLP text data and sentiment analysis and predicting the outcome with Three(3) model classifiers, and the model performed well with and accuracy score of 79%.
